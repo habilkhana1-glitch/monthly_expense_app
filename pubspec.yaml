@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   sqflite: ^2.2.5+1
-  path: ^1.9.3
+  path: ^1.9.1
   intl: ^0.18.1
 
 flutter:
